@@ -1,3 +1,10 @@
-This is an add-hoc model I created for recommender models.
+### This is an add-hoc model I created as an example of recommender systems.
 
-It uses ML-100k dataset and simly finds other users that ranked films similar to object user. Then it finds those users' movie ranks and calculates top n movies ranked highest points.
+### Dataset
+ml-100k
+
+You can download it from https://grouplens.org/datasets/movielens/100k/
+
+Model, in fact, doesn't use any statistical calculations (i.e ALS, Pearson Correleation, Cosine Similarities) to find "movies to be liked" but it is effective as the train dataset grows. 
+
+It simply finds other users that ranked films similarly to object user. Then it finds those users' ranks that gave to other movies and calculates top n movies higly ranked ones.
