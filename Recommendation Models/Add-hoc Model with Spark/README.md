@@ -1,9 +1,9 @@
 #### This is an add-hoc model which I created as an example of recommender systems.
 
 ### Dataset
-ml-100k
+ml-100k movie ranks dataset.
 
-You can download it from https://grouplens.org/datasets/movielens/100k/
+You can download the dataset from https://grouplens.org/datasets/movielens/100k/
 
 ### Model Description
 
