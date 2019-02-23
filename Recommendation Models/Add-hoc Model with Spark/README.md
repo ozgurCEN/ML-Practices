@@ -17,4 +17,9 @@ Model uses Spark RDD data structure and it is a good practice to work on Spark R
 
 
 ![](Utils/Screenshot%20from%202019-02-23%2014-51-49.png)
-      
+
+Note that "100" represents the object user.
+
+When it is run, model prints some checkpoints and finally top 10 results with their density scores. 
+
+
