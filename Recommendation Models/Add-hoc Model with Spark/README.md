@@ -14,4 +14,7 @@ Model takes object user an input from the terminal and finds other users who rat
 Model uses Spark RDD data structure and it is a good practice to work on Spark RDDs due to having many different data editing operations.
 
 ### Simple Usage
-https://github.com/ozgurCEN/ML-Practices/blob/master/Recommendation%20Models/Add-hoc%20Model%20with%20Spark/Utils/Screenshot%20from%202019-02-23%2014-51-49.png
+
+
+ML-Practices/Recommendation Models/Add-hoc Model with Spark/Utils/Screenshot from 2019-02-23 14-51-49.png
+      
