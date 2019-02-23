@@ -11,7 +11,7 @@ In fact, this doesn't use any statistical calculations (i.e ALS, Pearson Correle
 
 Model takes object user an input from the terminal and finds other users who rated 4-5 points to the same film to which object user rated 5 points. Then it finds those users' other film rankings and calculates top n higly ranked movies.
 
-Model uses Spark RDD data structure and it is a good practice to work on Spark RDDs due to having many different data editing operations.
+Model uses Spark RDD data structure and it is a good practice to work on Spark RDDs due to using many different data editing operations.
 
 ### Simple Usage
 
