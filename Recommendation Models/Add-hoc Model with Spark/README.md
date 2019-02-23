@@ -20,6 +20,6 @@ Model uses Spark RDD data structure and it is a good practice to work on Spark R
 
 Note that "100" represents the object user to whom we want to find good movies.
 
-When it is run, model prints some checkpoints and finally top 10 results with their density scores which is the count of times that rated 4-5 points from other users.
+When it is run, model prints some checkpoints and finally top 10 results with their density scores which is the count of times that the film was rated 4 or 5 points from other users.
 ![](Utils/Screenshot%20from%202019-02-23%2015-00-43.png)
 
