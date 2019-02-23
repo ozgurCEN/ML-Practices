@@ -16,5 +16,5 @@ Model uses Spark RDD data structure and it is a good practice to work on Spark R
 ### Simple Usage
 
 
-ML-Practices/Recommendation Models/Add-hoc Model with Spark/Utils/Screenshot from 2019-02-23 14-51-49.png
+![](utils/Screenshot%20from%202019-02-23%2014-51-49.png)
       
